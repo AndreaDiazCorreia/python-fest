@@ -1,9 +1,4 @@
-# ============================================
-# 1. HOOK IMPACTANTE (3 minutos)
-# ============================================
-print("=== HOOK IMPACTANTE ===")
-print("Ambos códigos hacen EXACTAMENTE lo mismo...")
-print()
+
 
 # Código A - "Principiante"
 print("Código A:")
